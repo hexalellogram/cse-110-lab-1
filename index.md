@@ -2,9 +2,20 @@
 
 ## Navigation
 
+[Photo](#photo)
+
 [Introduction](#Introduction)
-[Work](#Work)
-[Programmer](#Programmer)
+
+[Work Experience](#work-experience)
+
+[Programmer](#programmer)
+
+[Quotes](#quotes)
+
+[Code](#code)
+
+[Things to Do](#things-to-do)
+
 [README](README.md)
 
 ## Photo
@@ -19,7 +30,7 @@ I'm Bryce, an aspiring DevOps/Software/Security Engineer. I'm currently a second
 
 I'm originally from Orange County in Southern California.
 
-## Work
+## Work Experience
 
 ### Amazon
 
