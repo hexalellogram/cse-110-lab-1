@@ -77,10 +77,10 @@ To compile this, you would run `javac Driver.java` assuming that your filename i
 
 Here are some things that I want to do!
 
-[x] Get into CSE 110
+- [x] Get into CSE 110
 
-[ ] Pass CSE 110!
+- [ ] Pass CSE 110!
 
-[ ] Pass my other classes
+- [ ] Pass my other classes
 
-[ ] Graduate from UC San Diego
+- [ ] Graduate from UC San Diego
