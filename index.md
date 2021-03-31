@@ -7,6 +7,12 @@
 [Programmer](#Programmer)
 [README](README.md)
 
+## Photo
+
+Here's a photo of me!
+
+![A photo of me](bryce.JPG)
+
 ## Introduction
 
 I'm Bryce, an aspiring DevOps/Software/Security Engineer. I'm currently a second year student at UC San Diego, studying for a B.S. in Computer Science.
