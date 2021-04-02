@@ -18,6 +18,8 @@
 
 [README](README.md)
 
+[Secret Page](secret.html)
+
 ## Photo
 
 Here's a photo of me!
